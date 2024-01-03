@@ -19,7 +19,7 @@ The `philo_bonus` directory implements the same dining philosophers problem but 
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/seungwonme/Philosophers
+git clone https://github.com/seungwonme/Philosophers.git
 ```
 
 2. Navigate to the project directory:
