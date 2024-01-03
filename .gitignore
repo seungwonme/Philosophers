@@ -1,0 +1,7 @@
+.DS_Store
+a.out
+*.dSYM/
+.vscode/
+*.o
+*.a
+.clang-format
